@@ -1,0 +1,16 @@
+.odd{
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color:rgb(247, 191, 191);
+}
+
+#singular{
+    color: rgb(14, 14, 199);
+    font-size: 36px;
+}
+
+#unique{
+    background-color:rgb(88, 187, 105);
+    font-weight: bold;
+}
+
+.shared {font-size: 24px;}
